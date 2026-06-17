@@ -35,5 +35,5 @@ I am an aspiring **Full-Stack Developer** passionate about building clean, funct
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234E79A7.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.linkedin.com/posts/anant-swami-08498b29a_dataanalytics-python-powerbi-ugcPost-7472582721035427840-CM58/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhnXqQBGL877MFT3Mky8Qu7QKlB0BC4UMw)
 
