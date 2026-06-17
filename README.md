@@ -1,33 +1,51 @@
-# 💫 About Me:
-Aspiring Frontend/ Backend Developer | Python, SQL, HTML, CSS, <br>JavaScript | Passionate About  Web Development
+# Hi there, I'm Anant Swami 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anantswami26jan2004&label=Profile%20views&color=0e75b6&style=flat" alt="anantswami26jan2004" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anantswami_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-swami-08498b29a/) 
+### 💫 About Me:
+I am an aspiring **Full-Stack Developer** passionate about building clean, functional, and responsive web applications. I enjoy bridging the gap between elegant user interfaces and robust backend logic.
 
-# 💻 Tech Stack:
+- 🔭 **I’m currently working on:** [Name of a project or "Building my portfolio"]
+- 🌱 **I’m currently learning:** React.js, Django, or advanced backend concepts
+- 👯 **I’m looking to collaborate on:** Open-source web development projects
+- 💬 **Ask me about:** Python, SQL, or Frontend fundamentals
 
-Languages:
---
+---
+
+## 🌐 Socials & Professional Networks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-swami-08498b29a/) [![Naukri](https://img.shields.io/badge/Naukri-002F6C?style=flat&logo=naukri&logoColor=white)](PASTE_YOUR_NAUKRI_PROFILE_URL_HERE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anantswami_45) 
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Frontend & Styling
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-Framework:
---
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-DataBase:
---
+### ⚙️ Backend & Data
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-Library:
---
+### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 📈 Data Visualization & Business Intelligence
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234E79A7.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
-# anantswami26jan2004
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anantswami26jan2004&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-languages/?username=anantswami26jan2004&layout=compact&theme=visual_studio_dark" alt="Anant's Top Languages" />
+</p>
