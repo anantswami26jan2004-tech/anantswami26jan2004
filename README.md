@@ -7,9 +7,7 @@
 ### 💫 About Me:
 I am an aspiring **Full-Stack Developer** passionate about building clean, functional, and responsive web applications. I enjoy bridging the gap between elegant user interfaces and robust backend logic.
 
-- 🔭 **I’m currently working on:** [Name of a project or "Building my portfolio"]
-- 🌱 **I’m currently learning:** React.js, Django, or advanced backend concepts
-- 👯 **I’m looking to collaborate on:** Open-source web development projects
+- 🌱 **I’m currently learning:** javaScript, Python, or advanced backend concepts
 - 💬 **Ask me about:** Python, SQL, or Frontend fundamentals
 
 ---
@@ -39,7 +37,3 @@ I am an aspiring **Full-Stack Developer** passionate about building clean, funct
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234E79A7.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=anantswami26jan2004@gmail.com&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-languages/?username=anantswami26jan2004&layout=compact&theme=visual_studio_dark" alt="Anant's Top Languages" />
-</p>
