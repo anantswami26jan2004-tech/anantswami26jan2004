@@ -32,19 +32,12 @@ I am an aspiring **Full-Stack Developer** passionate about building clean, funct
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-### 📊 Data Analysis
+### 📊 Data Analysis, Visualization & BI
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📈 Data Visualization & Business Intelligence
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234E79A7.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-
-## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=anantswami26jan2004@gmail.com&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
