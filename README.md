@@ -43,9 +43,10 @@ I am an aspiring **Full-Stack Developer** passionate about building clean, funct
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anantswami26jan2004&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-languages/?username=anantswami26jan2004&layout=compact&theme=visual_studio_dark" alt="Anant's Top Languages" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=anantswami26jan2004&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-languages/?username=anantswami26jan2004&layout=compact&theme=visual_studio_dark" alt="Anant's Top Languages" />
 </p>
